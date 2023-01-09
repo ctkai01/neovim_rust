@@ -22,7 +22,7 @@ nvim_tree.setup {
         "dashboard",
         "alpha",
     },
-    open_on_tab = false,
+    open_on_tab = true,
     hijack_cursor = false,
     update_cwd = true,
     hijack_directories = {
